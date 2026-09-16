@@ -1,0 +1,23 @@
+# Logs
+logs/
+
+# Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Test cache
+.pytest_cache/
+.ruff_cache/
+
+# Build
+*.egg-info/
+
+data/app_internal.db
+venv/
+__pycache__/
+*.pyc
+.env
