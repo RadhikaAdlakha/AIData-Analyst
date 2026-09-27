@@ -8,9 +8,7 @@
 
 ## 🚀 Live Demo
 
-### Try the application
-
-**[🔗 Launch AI Data Analyst](https://ai-dataa-analyst.streamlit.app/)**
+[**🔗 Open AI Data Analyst**](https://aidata-analyst-bdbc4tglpdmt2mmqywwat3.streamlit.app/)
 
 Ask questions such as:
 
