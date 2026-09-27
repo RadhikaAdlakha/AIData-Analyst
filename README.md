@@ -651,15 +651,6 @@ That responsibility belongs to the deterministic validation and execution layers
 
 ---
 
-# 👨‍💻 Author
-
-**Sehaj Oberoi**
-
-AI / Data Engineering • Machine Learning • LLM Applications • Text-to-SQL
-
-**GitHub:** [SehajAnalyst](https://github.com/SehajAnalyst)
-
-**Live Project:** [AI Data Analyst](https://ai-dataa-analyst.streamlit.app/)
 
 ---
 
