@@ -45,4 +45,10 @@ def initialize_database():
     """
     Create all internal tables.
     """
-    Base.metadata.create_all(engine)
+    from sqlalchemy.exc import OperationalError
+
+    try:
+        Base.metadata.create_all(engine)
+    except OperationalError as e:
+        if "already exists" not in str(e):
+            raise
